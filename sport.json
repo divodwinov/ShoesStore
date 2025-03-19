@@ -1,0 +1,50 @@
+[
+    {
+        "image": "images/20.png",
+        "shoes_name" : "Adios Sport 1",
+        "shoes_price": "$.99",
+        "id" : "d-001" 
+    },
+
+    {
+        "image": "images/21.png",
+        "shoes_name" : "Adios Sport 2",
+        "shoes_price": "$.99",
+        "id" : "d-001"  
+    },
+
+    {
+        "image": "images/22.png",
+        "shoes_name" : "Adios Sport 3",
+        "shoes_price": "$.99" ,
+        "id" : "d-001" 
+    },
+
+    {
+        "image": "images/23.png",
+        "shoes_name" : "Adios Sport 4",
+        "shoes_price": "$.109",
+        "id" : "d-001" 
+    },
+
+    {
+        "image": "images/24.png",
+        "shoes_name" : "Adios Sport 5",
+        "shoes_price": "$.109" ,
+        "id" : "d-001" 
+    },  
+
+    {
+        "image": "images/24.png",
+        "shoes_name" : "Adios Sport 6",
+        "shoes_price": "$.109", 
+        "id" : "d-001" 
+    },
+
+    {
+        "image": "images/20.png",
+        "shoes_name" : "Adios Sport 7",
+        "shoes_price": "$.119" ,
+        "id" : "d-001" 
+    } 
+]  
